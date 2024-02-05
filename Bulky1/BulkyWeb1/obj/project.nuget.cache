@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "xjujnNm7leOdV9I5qtsH5Xsq4JOCFk2TXi1na3q9F7aI9nmzCP1Ukd0xU3ztyz6fgmMvE+2l7UG4Jq+H5YMD8g==",
+  "dgSpecHash": "k8jPon2abfA10HzTc/mVXMJ4jAmnSP6eARyJGcbN9dCCry6hapIyugvBSbIrF/eTydyD3QaLE/vykKKiCoXqJQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Prashnat\\Desktop\\YOHAN\\.NET CORE MVC APP\\.NET-Core-MVC-Application\\Bulky1\\BulkyWeb1\\BulkyWeb1.csproj",
+  "projectFilePath": "C:\\Users\\Prashnat\\Desktop\\YOHAN\\.NET CORE MVC APP\\ASP-.NET-Core-MVC-Application\\Bulky1\\BulkyWeb1\\BulkyWeb1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Prashnat\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\Prashnat\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

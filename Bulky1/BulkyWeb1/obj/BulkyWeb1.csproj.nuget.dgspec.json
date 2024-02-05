@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Prashnat\\Desktop\\YOHAN\\.NET CORE MVC APP\\.NET-Core-MVC-Application\\Bulky1\\BulkyWeb1\\BulkyWeb1.csproj": {}
+    "C:\\Users\\Prashnat\\Desktop\\YOHAN\\.NET CORE MVC APP\\ASP-.NET-Core-MVC-Application\\Bulky1\\BulkyWeb1\\BulkyWeb1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Prashnat\\Desktop\\YOHAN\\.NET CORE MVC APP\\.NET-Core-MVC-Application\\Bulky1\\BulkyWeb1\\BulkyWeb1.csproj": {
+    "C:\\Users\\Prashnat\\Desktop\\YOHAN\\.NET CORE MVC APP\\ASP-.NET-Core-MVC-Application\\Bulky1\\BulkyWeb1\\BulkyWeb1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Prashnat\\Desktop\\YOHAN\\.NET CORE MVC APP\\.NET-Core-MVC-Application\\Bulky1\\BulkyWeb1\\BulkyWeb1.csproj",
+        "projectUniqueName": "C:\\Users\\Prashnat\\Desktop\\YOHAN\\.NET CORE MVC APP\\ASP-.NET-Core-MVC-Application\\Bulky1\\BulkyWeb1\\BulkyWeb1.csproj",
         "projectName": "BulkyWeb1",
-        "projectPath": "C:\\Users\\Prashnat\\Desktop\\YOHAN\\.NET CORE MVC APP\\.NET-Core-MVC-Application\\Bulky1\\BulkyWeb1\\BulkyWeb1.csproj",
+        "projectPath": "C:\\Users\\Prashnat\\Desktop\\YOHAN\\.NET CORE MVC APP\\ASP-.NET-Core-MVC-Application\\Bulky1\\BulkyWeb1\\BulkyWeb1.csproj",
         "packagesPath": "C:\\Users\\Prashnat\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Prashnat\\Desktop\\YOHAN\\.NET CORE MVC APP\\.NET-Core-MVC-Application\\Bulky1\\BulkyWeb1\\obj\\",
+        "outputPath": "C:\\Users\\Prashnat\\Desktop\\YOHAN\\.NET CORE MVC APP\\ASP-.NET-Core-MVC-Application\\Bulky1\\BulkyWeb1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Prashnat\\AppData\\Roaming\\NuGet\\NuGet.Config",

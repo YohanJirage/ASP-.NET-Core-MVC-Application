@@ -9,41 +9,57 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = BulkyWeb1
 build_property.RootNamespace = BulkyWeb1
-build_property.ProjectDir = C:\Users\Prashnat\Desktop\YOHAN\.NET CORE MVC APP\.NET-Core-MVC-Application\Bulky1\BulkyWeb1\
+build_property.ProjectDir = C:\Users\Prashnat\Desktop\YOHAN\.NET CORE MVC APP\ASP-.NET-Core-MVC-Application\Bulky1\BulkyWeb1\
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\Prashnat\Desktop\YOHAN\.NET CORE MVC APP\.NET-Core-MVC-Application\Bulky1\BulkyWeb1
+build_property.MSBuildProjectDirectory = C:\Users\Prashnat\Desktop\YOHAN\.NET CORE MVC APP\ASP-.NET-Core-MVC-Application\Bulky1\BulkyWeb1
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/Prashnat/Desktop/YOHAN/.NET CORE MVC APP/.NET-Core-MVC-Application/Bulky1/BulkyWeb1/Views/Category/Index.cshtml]
+[C:/Users/Prashnat/Desktop/YOHAN/.NET CORE MVC APP/ASP-.NET-Core-MVC-Application/Bulky1/BulkyWeb1/Views/Category/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Prashnat/Desktop/YOHAN/.NET CORE MVC APP/ASP-.NET-Core-MVC-Application/Bulky1/BulkyWeb1/Views/Category/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Prashnat/Desktop/YOHAN/.NET CORE MVC APP/ASP-.NET-Core-MVC-Application/Bulky1/BulkyWeb1/Views/Category/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Prashnat/Desktop/YOHAN/.NET CORE MVC APP/ASP-.NET-Core-MVC-Application/Bulky1/BulkyWeb1/Views/Category/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Prashnat/Desktop/YOHAN/.NET CORE MVC APP/.NET-Core-MVC-Application/Bulky1/BulkyWeb1/Views/Home/Index.cshtml]
+[C:/Users/Prashnat/Desktop/YOHAN/.NET CORE MVC APP/ASP-.NET-Core-MVC-Application/Bulky1/BulkyWeb1/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Prashnat/Desktop/YOHAN/.NET CORE MVC APP/.NET-Core-MVC-Application/Bulky1/BulkyWeb1/Views/Home/Privacy.cshtml]
+[C:/Users/Prashnat/Desktop/YOHAN/.NET CORE MVC APP/ASP-.NET-Core-MVC-Application/Bulky1/BulkyWeb1/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Prashnat/Desktop/YOHAN/.NET CORE MVC APP/.NET-Core-MVC-Application/Bulky1/BulkyWeb1/Views/Shared/Error.cshtml]
+[C:/Users/Prashnat/Desktop/YOHAN/.NET CORE MVC APP/ASP-.NET-Core-MVC-Application/Bulky1/BulkyWeb1/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Prashnat/Desktop/YOHAN/.NET CORE MVC APP/.NET-Core-MVC-Application/Bulky1/BulkyWeb1/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/Prashnat/Desktop/YOHAN/.NET CORE MVC APP/ASP-.NET-Core-MVC-Application/Bulky1/BulkyWeb1/Views/Shared/_Notifications.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Ob3RpZmljYXRpb25zLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Prashnat/Desktop/YOHAN/.NET CORE MVC APP/ASP-.NET-Core-MVC-Application/Bulky1/BulkyWeb1/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Prashnat/Desktop/YOHAN/.NET CORE MVC APP/.NET-Core-MVC-Application/Bulky1/BulkyWeb1/Views/_ViewImports.cshtml]
+[C:/Users/Prashnat/Desktop/YOHAN/.NET CORE MVC APP/ASP-.NET-Core-MVC-Application/Bulky1/BulkyWeb1/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Prashnat/Desktop/YOHAN/.NET CORE MVC APP/.NET-Core-MVC-Application/Bulky1/BulkyWeb1/Views/_ViewStart.cshtml]
+[C:/Users/Prashnat/Desktop/YOHAN/.NET CORE MVC APP/ASP-.NET-Core-MVC-Application/Bulky1/BulkyWeb1/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Prashnat/Desktop/YOHAN/.NET CORE MVC APP/.NET-Core-MVC-Application/Bulky1/BulkyWeb1/Views/Shared/_Layout.cshtml]
+[C:/Users/Prashnat/Desktop/YOHAN/.NET CORE MVC APP/ASP-.NET-Core-MVC-Application/Bulky1/BulkyWeb1/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-0c7m36v43u
